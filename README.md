@@ -10,4 +10,4 @@ Repositories of assigned projects during various Computer Science courses.
 #### Web Development (Oregon State University - Winter 2017)
 [Workout Table](https://github.com/GabrielCee27/CS290_Workout_Table_Winter_2017)
 
-[Spotify API](https://gabrielcee27.github.io/Spotify_API_Winter_2017)
+[Spotify API Page](https://gabrielcee27.github.io/Spotify_API_Winter_2017)
