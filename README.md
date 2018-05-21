@@ -12,5 +12,8 @@ Repositories of assigned projects during various Computer Science courses.
 
 [Spotify API Page](https://gabrielcee27.github.io/Spotify_API_Winter_2017)
 
-#### Software Development (Univerity of San Francisco - Spring 2018)
+#### Software Development (University of San Francisco - Spring 2018)
 [Final Project](https://github.com/GabrielCee27/CS212_Final_Project)
+
+#### Parallel Computing (University of San Francisco - Spring 2018)
+[Parallel Cryptocurrency Miner](https://github.com/GabrielCee27/CS220_P3_Crypto_Miner)
