@@ -1,5 +1,5 @@
 # Course Projects
-Repositories of assigned projects during various Computer Science courses.
+Repositories of various projects for Computer Science courses.
 
 #### Software Development (University of San Francisco - Spring 2018)
 [Final Project](https://github.com/GabrielCee27/CS212_Final_Project)
