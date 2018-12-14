@@ -1,4 +1,4 @@
-# Course-Assignments
+# Course Projects
 Repositories of assigned projects during various Computer Science courses.
 
 #### Intro to Computer Science 1 (Oregon State University - Winter 2016)
