@@ -8,7 +8,7 @@ Repositories of various projects for Computer Science courses.
 [Parallel Cryptocurrency Miner](https://github.com/GabrielCee27/Crypto_Miner)
 
 #### Web Development (Oregon State University - Winter 2017)
-[Workout Table](https://github.com/GabrielCee27/CS290_Workout_Table_Winter_2017)
+[Workout Table](https://github.com/GabrielCee27/Workout_Table)
 
 [Spotify API](https://gabrielcee27.github.io/Spotify_API_Winter_2017)
 
