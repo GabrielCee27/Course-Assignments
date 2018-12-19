@@ -10,7 +10,7 @@ Repositories of various projects for Computer Science courses.
 #### Web Development (Oregon State University - Winter 2017)
 [Workout Table](https://github.com/GabrielCee27/Workout_Table)
 
-[Spotify API](https://gabrielcee27.github.io/Spotify_API_Winter_2017)
+[Spotify API](https://gabrielcee27.github.io/Spotify_API)
 
 #### Intro to CS 2 (Oregon State University - Spring 2016)
 [Hunt the Wumpus Game](https://github.com/GabrielCee27/Hunt_the_Wumpus)
