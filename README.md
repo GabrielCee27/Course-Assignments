@@ -2,7 +2,7 @@
 Repositories of various projects for Computer Science courses.
 
 #### Software Development (University of San Francisco - Spring 2018)
-[Final Project: Multithreaded Search Engine](https://github.com/GabrielCee27/CS212_Final_Project)
+[Final Project: Multithreaded Search Engine](https://github.com/GabrielCee27/Word_Search_Engine)
 
 #### Parallel Computing (University of San Francisco - Spring 2018)
 [Parallel Cryptocurrency Miner](https://github.com/GabrielCee27/CS220_P3_Crypto_Miner)
