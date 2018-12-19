@@ -5,7 +5,7 @@ Repositories of various projects for Computer Science courses.
 [Final Project: Multithreaded Search Engine](https://github.com/GabrielCee27/Word_Search_Engine)
 
 #### Parallel Computing (University of San Francisco - Spring 2018)
-[Parallel Cryptocurrency Miner](https://github.com/GabrielCee27/CS220_P3_Crypto_Miner)
+[Parallel Cryptocurrency Miner](https://github.com/GabrielCee27/Crypto_Miner)
 
 #### Web Development (Oregon State University - Winter 2017)
 [Workout Table](https://github.com/GabrielCee27/CS290_Workout_Table_Winter_2017)
