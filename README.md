@@ -16,5 +16,5 @@ Repositories of various projects for Computer Science courses.
 [Hunt the Wumpus Game](https://github.com/GabrielCee27/Hunt_the_Wumpus)
 
 #### Intro to CS 1 (Oregon State University - Winter 2016)
-[Mine Sweeper Game](https://github.com/GabrielCee27/CS161_Mine_Sweeper_Winter_2016)
+[Mine Sweeper Game](https://github.com/GabrielCee27/Mine_Sweeper)
 
